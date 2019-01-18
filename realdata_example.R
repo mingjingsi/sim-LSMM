@@ -9,7 +9,7 @@ load("SCZ1.RData") # load the summary statistics (notes: change the file name fo
 load("region9.RData") # load the genic category annotations
 load("tissue127.RData") # load the cell-type specific annotations
 
-SCZ1_Pvalue <- SCZ1[, c(1, 8)] # extract the SNP IDs and P-values (notes: the number of the columns may be different for other GWASs)
+SCZ1_Pvalue <- SCZ1[, c(1, 8)] # extract the SNP IDs and P-values (notes: the index of the columns may be different for other GWASs)
 
 region9tissue127 <- as.data.frame(cbind(region9, tissue127))
 region9tissue127$SNP <- rownames(region9)
