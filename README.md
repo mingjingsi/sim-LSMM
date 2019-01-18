@@ -1,6 +1,6 @@
 sim-LSMM
 ===
-We provide all the simulation code in the LSMM paper. We also provide an example to reproduce the results of real data analysis in the paper. The data sets analyzed in this paper, including nine genic category annotations, 127 cell-type specific functional annotations, and the summary statistics of 30 GWASs can be download [here](https://drive.google.com/drive/folders/1YrhncaNpo6doHfnIYqXPlhPdE7YpqEjO).
+We provide all the simulation code in the LSMM paper. We also provide an example to reproduce the results of real data analysis in the paper. The data sets analyzed in this paper, including nine genic category annotations, 127 cell-type specific functional annotations, and the summary statistics of 30 GWASs can be downloaded [here](https://drive.google.com/drive/folders/1YrhncaNpo6doHfnIYqXPlhPdE7YpqEjO).
 
 
 References
