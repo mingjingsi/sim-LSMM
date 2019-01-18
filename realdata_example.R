@@ -1,4 +1,4 @@
-##### An example to reproduce the real data analysis #####
+##### An example to reproduce the results of real data analysis #####
 # Schizophrenia 2 (Schizophrenia Psychiatric Genome-Wide Association Study (GWAS) Consortium, 2011)
 # For other GWASs, the code is similar only with some modifications explained below
 # The data sets analyzed in this paper, including nine genic category annotations, 127 Tissue-specific functional annotations, and the summary statistics of 30 GWAS can be download at https://drive.google.com/drive/folders/1YrhncaNpo6doHfnIYqXPlhPdE7YpqEjO
