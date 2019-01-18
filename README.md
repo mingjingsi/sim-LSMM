@@ -1,6 +1,6 @@
 sim-LSMM
 ===
-We provide all the simulation code in the LSMM paper. We also provide an example code for real data analysis of Schizophrenia.
+We provide all the simulation code in the LSMM paper. We also provide an example to reproduce the real data analysis. The data sets analyzed in this paper, including nine genic category annotations, 127 Tissue-specific functional annotations, and the summary statistics of 30 GWAS can be download [here](https://drive.google.com/drive/folders/1YrhncaNpo6doHfnIYqXPlhPdE7YpqEjO).
 
 
 References
