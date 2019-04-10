@@ -1,5 +1,5 @@
 ##### Performance of LSMM when the random effects don't share the same variance #####
-# Vary omega=0.01, 0.05, 0.1, 0.2 to get Figure S57-58 in Supplementary Document
+# Vary omega=0.01, 0.05, 0.1, 0.2 to get Figure S54-55 in Supplementary Document
 
 library(LSMM)
 library(pROC)
