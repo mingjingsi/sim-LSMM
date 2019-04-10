@@ -1,6 +1,6 @@
 ##### Performance of LSMM when the number of SNPs is small #####
 # Vary M=1000, 5000, 10000, 50000, 100000, 500000 to get 
-# Figures S22-S23 in Supplementary Document
+# Figures S21-S22 in Supplementary Document
 
 library(LSMM)
 library(pROC)
