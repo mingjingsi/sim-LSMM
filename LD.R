@@ -1,5 +1,5 @@
 ##### Simulation study for evaluating the LD effects on LSMM #####
-# Figure S47 in Supplementary Document
+# Figure S44 in Supplementary Document
 
 ####### prepare ##########
 
