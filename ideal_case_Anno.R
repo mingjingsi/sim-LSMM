@@ -1,6 +1,6 @@
 ##### Performance in detection of relevant cell-type specific functional annotations #####
 # Vary omega=0.01, 0.05, 0.1, 0.2 to get Figure 2 in the main text
-# Vary K=100, 500, 1000 and alpha=0.2, 0.4, 0.6 to get Figures S10-S18 in Supplementary Document
+# Vary K=100, 500, 1000 and alpha=0.2, 0.4, 0.6 to get Figures S10-S17 in Supplementary Document
 
 library(LSMM)
 library(pROC)
