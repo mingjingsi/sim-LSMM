@@ -1,7 +1,7 @@
 ##### Performance in identification of relevant annotations when the number of SNPs is large #####
 # Vary M=50000, 100000, 500000,
 # alpha=0.2, 0.4, 0.6 to get 
-# Figures S19-S21 in Supplementary Document
+# Figures S18-S20 in Supplementary Document
 
 library(LSMM)
 library(pROC)
