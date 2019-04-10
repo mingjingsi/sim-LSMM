@@ -1,7 +1,7 @@
 ##### Simulations to investigate the sensitivity of LSMM to initial parameter specification #####
 # Vary alpha=0.2, 0.4, 0.6, 
 # pi1=0.01, 0.05, 0.1, 0.15, 0.2 to get 
-# Figures S27 in Supplementary Document
+# Figures S24 in Supplementary Document
 
 library(LSMM)
 library(MASS)
