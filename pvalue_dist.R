@@ -2,7 +2,7 @@
 # Vary K=100, 500, 1000,
 # r=4, 1, 1/4,
 # dist="spiky", "near_normal", "skew", "big_normal" to get
-# Figures S44-S46 in Supplementary Document
+# Figures S41-S43 in Supplementary Document
 
 library(LSMM)
 library(MASS)
