@@ -2,7 +2,7 @@
 # Vary alpha=0.2, 0.4, 0.6, 
 # K=100, 500, 1000,
 # omega=0, 0.25, 0.5, 0.75, 1 to get 
-# Figures S31-S41 in Supplementary Document
+# Figures S28-S38 in Supplementary Document
 
 library(LSMM)
 library(MASS)
