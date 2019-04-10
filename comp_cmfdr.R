@@ -1,5 +1,5 @@
 ##### Comparison between LSMM and cmfdr #####
-# Figures S63 in Supplementary Document
+# Figures S60 in Supplementary Document
 
 library(LSMM)
 library(pROC)
