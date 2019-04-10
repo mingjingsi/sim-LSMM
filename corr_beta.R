@@ -1,5 +1,5 @@
 ##### Performance of LSMM when the random effects are correlated #####
-# Vary rho=0, 0.2, 0.4, 0.6, 0.8 to get Figure S55-56 in Supplementary Document
+# Vary rho=0, 0.2, 0.4, 0.6, 0.8 to get Figure S52-53 in Supplementary Document
 
 library(LSMM)
 library(pROC)
