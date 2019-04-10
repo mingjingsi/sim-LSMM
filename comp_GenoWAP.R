@@ -1,5 +1,5 @@
 ##### Comparison between LSMM and GenoWAP #####
-# Vary omega=0.01, 0.05, 0.1, 0.2 to get Figures S64 in Supplementary Document
+# Vary omega=0.01, 0.05, 0.1, 0.2 to get Figures S61 in Supplementary Document
 
 library(LSMM)
 library(pROC)
@@ -125,7 +125,7 @@ names(result) <- c("FDR.LSMM", "power.LSMM", "AUC.LSMM", "pAUC.LSMM",
                    "FDR.GenoWAP", "power.GenoWAP", "AUC.GenoWAP", "pAUC.GenoWAP")
 
 
-# Vary Z.perc=0.1, 0.3, 0.5, 0.7, 0.9 to get Figures S65 in Supplementary Document
+# Vary Z.perc=0.1, 0.3, 0.5, 0.7, 0.9 to get Figures S62 in Supplementary Document
 
 library(LSMM)
 library(pROC)
