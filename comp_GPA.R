@@ -1,7 +1,7 @@
 ##### Comparison between LSMM and GPA #####
 # Vary K=10, 50, 100, 500,
 # corr=0, 0.2, 0.4, 0.6 to get 
-# Figures S59-S62 in Supplementary Document
+# Figures S56-S59 in Supplementary Document
 
 library(LSMM)
 library(pROC)
