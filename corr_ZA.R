@@ -1,7 +1,7 @@
 ##### Performance in identification of relevant annotations when the annotations #####
 ##### in design matrix of fixed effects and random effects are not independent #####
 # Vary corr=0, 0.2, 0.4, 0.6, 0.8 to get 
-# Figure S26 in Supplementary Document
+# Figure S23 in Supplementary Document
 
 library(LSMM)
 library(pROC)
