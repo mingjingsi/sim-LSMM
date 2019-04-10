@@ -1,7 +1,7 @@
 ##### Simulations based on probit model #####
 # Vary K=100, 500, 1000,
 # r=4, 1, 1/4 to get
-# Figures S49-S54 in Supplementary Document
+# Figures S46-S51 in Supplementary Document
 
 library(LSMM)
 library(pROC)
