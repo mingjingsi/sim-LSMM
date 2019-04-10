@@ -1,7 +1,7 @@
 ##### Estimation of alpha using individual-level data#####
 # Vary N=5000, 10000, 
 # h2=0.2, 0.4, 0.6, 0.8 to get 
-# Figures S43 in Supplementary Document
+# Figures S40 in Supplementary Document
 
 library(LSMM)
 library(MASS)
